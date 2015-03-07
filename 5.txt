@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 ed
 
+<<<<<<< HEAD
 i change
+=======
+cras11111h edit
+>>>>>>> origin/master
 =======
 edit 1
 >>>>>>> origin/master
