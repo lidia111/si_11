@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ed
 
 crash edit
+=======
+edit 1
+>>>>>>> origin/master
