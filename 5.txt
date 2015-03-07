@@ -1,7 +1,9 @@
 <<<<<<< HEAD
 ed
 
-crash edit
+i change
 =======
 edit 1
 >>>>>>> origin/master
+
+
