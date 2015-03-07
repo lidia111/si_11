@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+kapec
+=======
+hello cat
+
+hello Lida
+>>>>>>> origin/master
